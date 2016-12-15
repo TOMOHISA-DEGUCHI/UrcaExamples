@@ -1,0 +1,10 @@
+framework module Urca {
+  umbrella header "Urca.h"
+
+  export *
+  module * { export * }
+}
+
+module Urca.Swift {
+    header "Urca-Swift.h"
+}
