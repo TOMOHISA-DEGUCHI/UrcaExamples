@@ -21,7 +21,7 @@
 		BD3406491CE47726005103E9 /* DefaultCellInTableViewController.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD3406471CE47726005103E9 /* DefaultCellInTableViewController.storyboard */; };
 		BD34064A1CE47726005103E9 /* DefaultCellInTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD3406481CE47726005103E9 /* DefaultCellInTableViewController.swift */; };
 		BD3CD9451D2F95DA00D528E4 /* CollectionViewFlowLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD3CD9441D2F95DA00D528E4 /* CollectionViewFlowLayout.swift */; };
-		BDB02F481E0284AE00C7B065 /* Urca.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BDB02F471E0284AE00C7B065 /* Urca.framework */; };
+		BD707F0E1E08E01600B5304E /* Urca.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BD707F0D1E08E01600B5304E /* Urca.framework */; };
 		BDC449A71D2E0B27000479F2 /* CollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDC449A51D2E0B27000479F2 /* CollectionViewController.swift */; };
 		BDFD7F6E1D34BA7600559CA2 /* CustomCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDFD7F681D34BA7600559CA2 /* CustomCell.swift */; };
 		BDFD7F6F1D34BA7600559CA2 /* CustomCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = BDFD7F691D34BA7600559CA2 /* CustomCell.xib */; };
@@ -59,7 +59,7 @@
 		BD3406471CE47726005103E9 /* DefaultCellInTableViewController.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = DefaultCellInTableViewController.storyboard; path = DefaultCellInTableView/DefaultCellInTableViewController.storyboard; sourceTree = "<group>"; };
 		BD3406481CE47726005103E9 /* DefaultCellInTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DefaultCellInTableViewController.swift; path = DefaultCellInTableView/DefaultCellInTableViewController.swift; sourceTree = "<group>"; };
 		BD3CD9441D2F95DA00D528E4 /* CollectionViewFlowLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CollectionViewFlowLayout.swift; sourceTree = "<group>"; };
-		BDB02F471E0284AE00C7B065 /* Urca.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Urca.framework; sourceTree = "<group>"; };
+		BD707F0D1E08E01600B5304E /* Urca.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Urca.framework; sourceTree = "<group>"; };
 		BDC449A51D2E0B27000479F2 /* CollectionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CollectionViewController.swift; path = CollectionView/CollectionViewController.swift; sourceTree = "<group>"; };
 		BDFD7F681D34BA7600559CA2 /* CustomCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CustomCell.swift; path = CustomCell/CustomCell.swift; sourceTree = "<group>"; };
 		BDFD7F691D34BA7600559CA2 /* CustomCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = CustomCell.xib; path = CustomCell/CustomCell.xib; sourceTree = "<group>"; };
@@ -72,7 +72,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BDB02F481E0284AE00C7B065 /* Urca.framework in Frameworks */,
+				BD707F0E1E08E01600B5304E /* Urca.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -101,7 +101,7 @@
 		BD3405A91CE46781005103E9 = {
 			isa = PBXGroup;
 			children = (
-				BDB02F471E0284AE00C7B065 /* Urca.framework */,
+				BD707F0D1E08E01600B5304E /* Urca.framework */,
 				BD3405B41CE46781005103E9 /* Demo-Urca-Swift */,
 				BD3405B31CE46781005103E9 /* Products */,
 			);
